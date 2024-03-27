@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kasa.version2/static/css/main.57e0b9f9.css",
+    "main.js": "/kasa.version2/static/js/main.2f53a71c.js",
+    "static/media/montagne.png": "/kasa.version2/static/media/montagne.640955dab8c7bff25514.png",
+    "static/media/plage.png": "/kasa.version2/static/media/plage.19221376a0aa2549c135.png",
+    "static/media/Montserrat-Medium.ttf": "/kasa.version2/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "index.html": "/kasa.version2/index.html",
+    "main.57e0b9f9.css.map": "/kasa.version2/static/css/main.57e0b9f9.css.map",
+    "main.2f53a71c.js.map": "/kasa.version2/static/js/main.2f53a71c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e0b9f9.css",
+    "static/js/main.2f53a71c.js"
+  ]
+}
