@@ -37,10 +37,12 @@
   }
 
   &__tags {
+    display: flex;
     padding: 10px 40px;
     list-style-type: none;
     background-color: $color-1;
     color: $color-4;
+    align-items: center;
     border-radius: 10px;
   }
 
