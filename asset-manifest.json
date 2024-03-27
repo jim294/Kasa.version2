@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kasa/static/css/main.77dc0b13.css",
-    "main.js": "/kasa/static/js/main.09ac0b0b.js",
+    "main.js": "/kasa/static/js/main.6f290c14.js",
     "static/media/montagne.png": "/kasa/static/media/montagne.640955dab8c7bff25514.png",
     "static/media/plage.png": "/kasa/static/media/plage.19221376a0aa2549c135.png",
     "static/media/Montserrat-Medium.ttf": "/kasa/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "index.html": "/kasa/index.html",
     "main.77dc0b13.css.map": "/kasa/static/css/main.77dc0b13.css.map",
-    "main.09ac0b0b.js.map": "/kasa/static/js/main.09ac0b0b.js.map"
+    "main.6f290c14.js.map": "/kasa/static/js/main.6f290c14.js.map"
   },
   "entrypoints": [
     "static/css/main.77dc0b13.css",
-    "static/js/main.09ac0b0b.js"
+    "static/js/main.6f290c14.js"
   ]
 }
